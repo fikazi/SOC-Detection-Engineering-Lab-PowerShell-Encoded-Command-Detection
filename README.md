@@ -24,7 +24,7 @@ The objective of this project is to validate how endpoint telemetry can be colle
 
 # Architecture
 
-![Architecture Diagram](./Images/Architecture.png)
+![Architecture Diagram](./images/Architecture.png)
 
 ---
 
