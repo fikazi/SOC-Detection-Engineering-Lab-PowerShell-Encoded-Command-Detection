@@ -1,5 +1,8 @@
 # SOC Detection Engineering Lab – PowerShell Encoded Command Detection
-
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-T1059.001-red)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue)
+![Sysmon](https://img.shields.io/badge/Sysmon-Telemetry-green)
+![TheHive](https://img.shields.io/badge/TheHive-Incident_Response-orange)
 ## Overview
 
 This project demonstrates an end-to-end SOC workflow focused on detecting suspicious PowerShell activity using Sysmon, Wazuh, OpenSearch, and TheHive. The lab simulates a realistic attack scenario based on MITRE ATT&CK T1059.001 (PowerShell) using Atomic Red Team.
