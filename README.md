@@ -51,6 +51,10 @@ powershell.exe -e <base64_encoded_command>
 
 This type of execution pattern is frequently abused by attackers to obfuscate malicious commands and bypass basic detection mechanisms.
 
+## Screenshot
+
+![Atomic Test](Images/Atomic_Test.png)
+
 ---
 
 # Sysmon Telemetry Collection
@@ -156,6 +160,7 @@ Generated alert details:
 | Log Source | Sysmon Event ID 1 |
 
 ## Screenshot
+![Threat Hunting](./images/Wazuh_Alert1.png)
 
 ![Threat Hunting](./images/Threat_Hunting.png)
 
