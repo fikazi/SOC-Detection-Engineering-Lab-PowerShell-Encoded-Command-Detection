@@ -214,6 +214,18 @@ This integration demonstrates how endpoint telemetry can move through a complete
 
 ---
 
+# Conclusion
+
+This lab successfully demonstrated how a suspicious PowerShell execution can be detected and investigated through an end-to-end SOC workflow.
+
+Starting from attack simulation with Atomic Red Team, telemetry was collected by Sysmon, analyzed by Wazuh, validated through OpenSearch, and escalated into an incident case within TheHive.
+
+Beyond the technical implementation, this project provided valuable hands-on experience in detection engineering, threat hunting, and incident response workflows. It also reinforced the importance of understanding telemetry, tuning detection logic, and providing context to security alerts.
+
+The knowledge gained from this project serves as a foundation for developing more advanced detection scenarios and expanding SOC monitoring capabilities in future labs.
+
+---
+
 # References
 
 - MITRE ATT&CK – T1059.001 PowerShell
