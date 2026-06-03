@@ -76,7 +76,7 @@ Sysmon provided detailed endpoint visibility that became the primary telemetry s
 
 ## Screenshot
 
-![Sysmon Event](./Images/Sysmon-Event.png)
+![Sysmon Event](./Images/Sysmon_Event.png)
 
 ---
 
