@@ -24,7 +24,7 @@ The objective of this project is to validate how endpoint telemetry can be colle
 
 # Architecture
 
-![Architecture Diagram](./Images/architecture.png)
+![Architecture Diagram](./Images/Architecture.png)
 
 ---
 
@@ -76,7 +76,7 @@ Sysmon provided detailed endpoint visibility that became the primary telemetry s
 
 ## Screenshot
 
-![Sysmon Event](./Images/sysmon-event.png)
+![Sysmon Event](./Images/Sysmon-Event.png)
 
 ---
 
@@ -130,7 +130,7 @@ These arguments are commonly associated with obfuscated PowerShell activity used
 
 ## Screenshot
 
-![Local Rules](./Images/local-rules.png)
+![Local Rules](./Images/Local-Rules.png)
 
 ---
 
@@ -157,7 +157,7 @@ Generated alert details:
 
 ## Screenshot
 
-![Threat Hunting](./Images/threat-hunting.png)
+![Threat Hunting](./Images/Threat-Hunting.png)
 
 ---
 
