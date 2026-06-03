@@ -130,7 +130,7 @@ These arguments are commonly associated with obfuscated PowerShell activity used
 
 ## Screenshot
 
-![Local Rules](./Images/Local-Rules.png)
+![Local Rules](./Images/Local_Rules.png)
 
 ---
 
@@ -157,7 +157,7 @@ Generated alert details:
 
 ## Screenshot
 
-![Threat Hunting](./Images/Threat-Hunting.png)
+![Threat Hunting](./Images/Threat_Hunting.png)
 
 ---
 
@@ -180,7 +180,8 @@ This integration demonstrates how endpoint telemetry can move through a complete
 
 ## Screenshot
 
-![TheHive Alert](./Images/thehive-alert.png)
+![TheHive Alert](./Images/TheHive_Alert1.png)
+![TheHive Alert](./Images/TheHive_Alert2.png)
 
 ---
 
