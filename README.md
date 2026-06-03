@@ -53,7 +53,7 @@ This type of execution pattern is frequently abused by attackers to obfuscate ma
 
 ## Screenshot
 
-![Atomic Test](Images/Atomic_Test.png)
+![Atomic Test](images/Atomic_Test.png)
 
 ---
 
